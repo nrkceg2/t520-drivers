@@ -4,10 +4,7 @@
 <h1>Folder paths</h1>
 <ul>
   <li>OS</li>
-  <li>Architecture</li>
-  <li>Vendor</li>
-  <li>Peripheral</li>
-  <li>Source of driver</li>
+  <li>Device</li>
 </ul>
 <hr>
 <h1>Please be aware some drivers for some platforms are unavailable. - nrkceg2</h1>
