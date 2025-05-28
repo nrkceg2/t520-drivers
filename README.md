@@ -1,4 +1,4 @@
-<h1>Lenovo ThinkPad T520 Drivers</h1>
+<h1>Lenovo ThinkPad T520 Drivers (Windows XP)</h1>
 <h2>Archived from Lenovo's website on 28-May-2025 at 11:32 am utc-5 (or gmt-4 idk)</h2>
 <br>
 <h1>Folder paths</h1>
